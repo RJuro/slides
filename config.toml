@@ -1,4 +1,4 @@
-baseURL = "https://github.com/RJuro/slides_view"
+baseURL = "https://rjuro.github.io/slides_view"
 theme = "reveal-hugo"
 
 [outputFormats.Reveal]
