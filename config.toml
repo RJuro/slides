@@ -1,0 +1,7 @@
+baseURL = "https://github.com/RJuro/slides_view"
+theme = "reveal-hugo"
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
